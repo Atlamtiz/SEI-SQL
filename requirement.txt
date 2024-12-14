@@ -1,0 +1,4 @@
+sqlglot
+openai
+transformers
+torch
